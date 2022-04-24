@@ -1,4 +1,4 @@
-import { ratingClasses } from "@mui/material"
+
 import Image from "next/image"
 import Currency from 'react-currency-formatter'
 import { StarIcon } from "@heroicons/react/solid"
